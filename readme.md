@@ -10,3 +10,5 @@ For australian users these can be purchased from Jaycar although the parts can b
 https://www.jaycar.com.au/miniature-glass-reed-switch/p/SM1002
 
 https://www.jaycar.com.au/arduino-compatible-nano-board/p/XC4414
+
+The 3D printed case takes 4mm M2 screws and threaded inserts
